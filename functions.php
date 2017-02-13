@@ -234,3 +234,5 @@
 		}
 		add_shortcode( 'edu_profile', 'eduprofile' );
 	}
+
+?>
